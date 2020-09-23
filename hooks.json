@@ -188,7 +188,7 @@
    },
    {
       "name":"Hook of Dissonance",
-      "source":"Queen SLime (33,3%)",
+      "source":"Queen Slime (33,3%)",
       "reach":30,
       "velocity":16,
       "hooks":[
@@ -243,9 +243,7 @@
    },
    {
       "name":"Anti-Gravity Hook",
-      "source":[
-         "Martian Saucer (11.11%) Console Version Mobile version\n",
-         "All enemies in the Martian Madness event Desktop version"
+      "source":"Martian Saucer (11.11%) Console Version Mobile version,\nAll enemies in the Martian Madness event (Desktop version)"
       ],
       "reach":31.25,
       "velocity":14,
